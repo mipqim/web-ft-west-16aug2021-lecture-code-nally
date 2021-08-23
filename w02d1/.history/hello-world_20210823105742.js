@@ -10,7 +10,8 @@ const sayGoodbye = (name) => {
 };
 
 // make the functions exportable
+// module.exports = sayHello;
+
 module.exports = { 
-  sayHello,
-  sayGoodbye
+  sH: sayHello 
 };

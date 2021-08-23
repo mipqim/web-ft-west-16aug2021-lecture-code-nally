@@ -4,13 +4,7 @@ const sayHello = (name) => {
   return output;
 };
 
-const sayGoodbye = (name) => {
-  const output = `Goodbye, ${name}`;
-  return output;
-};
+// show some test code here at first, and then factor it out later
 
+sayHello('World!');
 // make the functions exportable
-module.exports = { 
-  sayHello,
-  sayGoodbye
-};

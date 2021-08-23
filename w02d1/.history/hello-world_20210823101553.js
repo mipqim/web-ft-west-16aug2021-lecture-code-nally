@@ -4,13 +4,7 @@ const sayHello = (name) => {
   return output;
 };
 
-const sayGoodbye = (name) => {
-  const output = `Goodbye, ${name}`;
-  return output;
-};
+console.log('output:', valueThatCameBack);
+
 
 // make the functions exportable
-module.exports = { 
-  sayHello,
-  sayGoodbye
-};

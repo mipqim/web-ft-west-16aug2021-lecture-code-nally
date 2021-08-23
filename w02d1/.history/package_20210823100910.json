@@ -3,7 +3,7 @@
     "mocha": "^9.1.0"
   },
   "name": "testdrivendevelopment",
-  "description": "sample code for test driven development",
+  "description": "### To Do - [x] Manual testing - [x] Bringing in outside code - [x] Making assertions - [] Exporting our code - [] Intro to NPM: a Node package manager - [] Mocha test runner - [] Ignoring files/folders - [] What is TDD? - [] Chai assertion library",
   "version": "1.0.0",
   "main": "hello-world.js",
   "directories": {
@@ -11,7 +11,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "./node_modules/mocha/bin/mocha"
+    "test": "mocha"
   },
   "keywords": [
     "TDD",

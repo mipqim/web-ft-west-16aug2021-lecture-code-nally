@@ -4,13 +4,14 @@ const sayHello = (name) => {
   return output;
 };
 
-const sayGoodbye = (name) => {
-  const output = `Goodbye, ${name}`;
-  return output;
-};
+// show some test code here at first, and then factor it out later
+const valueThatCameBack = sayHello('World!');
+
+assert.equal(valueThatCameBack,"Hello, World!!");
+
+// console.log('output:', valueThatCameBack);
+
+
+
 
 // make the functions exportable
-module.exports = { 
-  sayHello,
-  sayGoodbye
-};
