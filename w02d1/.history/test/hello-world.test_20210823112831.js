@@ -8,9 +8,10 @@ const prodCodeObj = require("../hello-world"); // bring in our production code
 
 describe('tests for the standard functioning of sayHello', ()=>{
 
-  it('produces non-traditional output as well. monkey', ()=>{
+  it('produces non-traditional output as well', ()=>{
     // do the individual test here
     const valueThatCameBack = prodCodeObj.sayHello('Sally!!');
+    asdfasdfhjkdshafjkdsahjkfd();
     assert.equal(valueThatCameBack,"Hello, Sally!!");
   });
 
