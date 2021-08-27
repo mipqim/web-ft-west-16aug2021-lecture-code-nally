@@ -16,7 +16,7 @@ returnPromise('one')
   })
   .then((data) => {
     console.log('third then clause:',data);
-    return returnRejectedPromise('four');
+    return returnPromise('four');
   })
   .then((data) => {
     console.log('fourth then clause:',data);

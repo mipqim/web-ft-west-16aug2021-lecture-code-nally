@@ -10,6 +10,10 @@ returnPromise('one')
     console.log('first then clause:',data);
     return returnPromise('two');
   })
+  .catch((err) => {
+    // throw err;
+    console.log('Error:',err);
+  })
   .then((data) => {
     console.log('second then clause:',data);
     return returnPromise('three');
@@ -26,7 +30,4 @@ returnPromise('one')
     console.log('fifth then clause:',data);
     return returnPromise('six');
   })
-  .catch((err) => {
-    // throw err;
-    console.log('Error:',err);
-  });
+  ;

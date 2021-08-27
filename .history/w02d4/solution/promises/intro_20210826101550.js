@@ -21,9 +21,9 @@ promise
   .then((data) => {
     console.log("data:",data);
     return 'another thing';
-  })
-  .then((data) => {
-    console.log("monkeyfuzz:",data);
   });
+//   .then((data) => {
+//     console.log("monkeyfuzz",data);
+//   });
 
   

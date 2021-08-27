@@ -23,10 +23,10 @@ returnPromise('one')
     return returnPromise('five');
   })
   .then((data) => {
-    console.log('fifth then clause:',data);
+    console.log(data);
     return returnPromise('six');
   })
   .catch((err) => {
     // throw err;
-    console.log('Error:',err);
-  });
+    console.log(err);
+  })

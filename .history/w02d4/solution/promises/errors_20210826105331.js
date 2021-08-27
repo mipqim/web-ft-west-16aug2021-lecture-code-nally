@@ -26,7 +26,4 @@ returnPromise('one')
     console.log('fifth then clause:',data);
     return returnPromise('six');
   })
-  .catch((err) => {
-    // throw err;
-    console.log('Error:',err);
-  });
+  ;

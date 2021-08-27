@@ -9,21 +9,20 @@ console.log('Promise:',promise);
 // Not the best way to do this
 
 // setTimeout(()=>{
-//   console.log("After:",promise);
+//   console.log(promise);
 // },5000);
-
 
 //
 // The RIGHT way to do this
 //
 
-promise
-  .then((data) => {
-    console.log("data:",data);
-    return 'another thing';
-  })
-  .then((data) => {
-    console.log("monkeyfuzz:",data);
-  });
+// promise
+//   .then((data) => {
+//     console.log(data);
+//     return 'another thing';
+//   })
+//   .then((data) => {
+//     console.log("monkeyfuzz",data);
+//   });
 
   
