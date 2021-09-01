@@ -1,0 +1,6 @@
+-rwxr-xr-x  1 christian.nally  652411807   93  3 May 15:24 gitfind.sh*
+-rwxr-xr-x  1 christian.nally  652411807   93  3 May 15:24 gitfind.sh*
+-rwxr-xr-x  1 christian.nally  652411807    93  3 May 15:24 gitfind.sh*
+-rwxr-xr-x  1 christian.nally  652411807    93  3 May 15:24 gitfind.sh*
+-rwxr-xr-x  1 christian.nally  652411807    93  3 May 15:24 gitfind.sh*
+-rwxr-xr-x  1 christian.nally  652411807    93  3 May 15:24 gitfind.sh*

@@ -1,0 +1,66 @@
+total 56
+-rw-r--r--  1 christian.nally  652411807  654  3 May 15:24 README.md
+drwxr-xr-x  4 christian.nally  652411807  128  3 May 15:24 alphabetization/
+drwxr-xr-x  8 christian.nally  652411807  256  5 Jul 13:34 alphabetsoup/
+-rw-r--r--  1 christian.nally  652411807    0 31 Aug 15:49 directorylisting.txt
+-rw-r--r--  1 christian.nally  652411807  182 14 May 12:52 dotinputrc
+-rwxr-xr-x  1 christian.nally  652411807   93  3 May 15:24 gitfind.sh*
+-rw-r--r--  1 christian.nally  652411807   68 31 Aug 15:48 githuburl.txt
+-rw-------  1 christian.nally  652411807  806 31 Aug 11:40 nano.save
+-rw-r--r--  1 christian.nally  652411807   25  5 Jul 13:50 newfilewithwordcount.txt
+-rw-r--r--  1 christian.nally  652411807   45  3 May 15:24 tildaslashdotbashrc
+total 64
+-rw-r--r--  1 christian.nally  652411807  654  3 May 15:24 README.md
+drwxr-xr-x  4 christian.nally  652411807  128  3 May 15:24 alphabetization/
+drwxr-xr-x  8 christian.nally  652411807  256  5 Jul 13:34 alphabetsoup/
+-rw-r--r--  1 christian.nally  652411807  753 31 Aug 15:49 directorylisting.txt
+-rw-r--r--  1 christian.nally  652411807  182 14 May 12:52 dotinputrc
+-rwxr-xr-x  1 christian.nally  652411807   93  3 May 15:24 gitfind.sh*
+-rw-r--r--  1 christian.nally  652411807   68 31 Aug 15:48 githuburl.txt
+-rw-------  1 christian.nally  652411807  806 31 Aug 11:40 nano.save
+-rw-r--r--  1 christian.nally  652411807   25  5 Jul 13:50 newfilewithwordcount.txt
+-rw-r--r--  1 christian.nally  652411807   45  3 May 15:24 tildaslashdotbashrc
+total 64
+-rw-r--r--  1 christian.nally  652411807   654  3 May 15:24 README.md
+drwxr-xr-x  4 christian.nally  652411807   128  3 May 15:24 alphabetization/
+drwxr-xr-x  8 christian.nally  652411807   256  5 Jul 13:34 alphabetsoup/
+-rw-r--r--  1 christian.nally  652411807  1506 31 Aug 15:49 directorylisting.txt
+-rw-r--r--  1 christian.nally  652411807   182 14 May 12:52 dotinputrc
+-rwxr-xr-x  1 christian.nally  652411807    93  3 May 15:24 gitfind.sh*
+-rw-r--r--  1 christian.nally  652411807    68 31 Aug 15:48 githuburl.txt
+-rw-------  1 christian.nally  652411807   806 31 Aug 11:40 nano.save
+-rw-r--r--  1 christian.nally  652411807    25  5 Jul 13:50 newfilewithwordcount.txt
+-rw-r--r--  1 christian.nally  652411807    45  3 May 15:24 tildaslashdotbashrc
+total 64
+-rw-r--r--  1 christian.nally  652411807   654  3 May 15:24 README.md
+drwxr-xr-x  4 christian.nally  652411807   128  3 May 15:24 alphabetization/
+drwxr-xr-x  8 christian.nally  652411807   256  5 Jul 13:34 alphabetsoup/
+-rw-r--r--  1 christian.nally  652411807  2269 31 Aug 15:49 directorylisting.txt
+-rw-r--r--  1 christian.nally  652411807   182 14 May 12:52 dotinputrc
+-rwxr-xr-x  1 christian.nally  652411807    93  3 May 15:24 gitfind.sh*
+-rw-r--r--  1 christian.nally  652411807    68 31 Aug 15:48 githuburl.txt
+-rw-------  1 christian.nally  652411807   806 31 Aug 11:40 nano.save
+-rw-r--r--  1 christian.nally  652411807    25  5 Jul 13:50 newfilewithwordcount.txt
+-rw-r--r--  1 christian.nally  652411807    45  3 May 15:24 tildaslashdotbashrc
+total 64
+-rw-r--r--  1 christian.nally  652411807   654  3 May 15:24 README.md
+drwxr-xr-x  4 christian.nally  652411807   128  3 May 15:24 alphabetization/
+drwxr-xr-x  8 christian.nally  652411807   256  5 Jul 13:34 alphabetsoup/
+-rw-r--r--  1 christian.nally  652411807  3032 31 Aug 15:49 directorylisting.txt
+-rw-r--r--  1 christian.nally  652411807   182 14 May 12:52 dotinputrc
+-rwxr-xr-x  1 christian.nally  652411807    93  3 May 15:24 gitfind.sh*
+-rw-r--r--  1 christian.nally  652411807    68 31 Aug 15:48 githuburl.txt
+-rw-------  1 christian.nally  652411807   806 31 Aug 11:40 nano.save
+-rw-r--r--  1 christian.nally  652411807    25  5 Jul 13:50 newfilewithwordcount.txt
+-rw-r--r--  1 christian.nally  652411807    45  3 May 15:24 tildaslashdotbashrc
+total 64
+-rw-r--r--  1 christian.nally  652411807   654  3 May 15:24 README.md
+drwxr-xr-x  4 christian.nally  652411807   128  3 May 15:24 alphabetization/
+drwxr-xr-x  8 christian.nally  652411807   256  5 Jul 13:34 alphabetsoup/
+-rw-r--r--  1 christian.nally  652411807  3795 31 Aug 15:49 directorylisting.txt
+-rw-r--r--  1 christian.nally  652411807   182 14 May 12:52 dotinputrc
+-rwxr-xr-x  1 christian.nally  652411807    93  3 May 15:24 gitfind.sh*
+-rw-r--r--  1 christian.nally  652411807    68 31 Aug 15:48 githuburl.txt
+-rw-------  1 christian.nally  652411807   806 31 Aug 11:40 nano.save
+-rw-r--r--  1 christian.nally  652411807    25  5 Jul 13:50 newfilewithwordcount.txt
+-rw-r--r--  1 christian.nally  652411807    45  3 May 15:24 tildaslashdotbashrc
